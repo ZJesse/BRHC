@@ -1,0 +1,4 @@
+#Key and value types
+#Fri Apr 20 17:36:44 CST 2018
+keyType=java.lang.String
+valueType=org.brhc.cache.CacheObject
